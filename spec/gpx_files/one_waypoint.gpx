@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.7" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+<wpt lat="46.1929178" lon="-78.3364248">
+	<time>2012-01-31T17:41:36Z</time>
+	<name>bail</name>
+	<cmt>Road and Brent Rd</cmt>
+	<desc>Road and Brent Rd</desc>
+	<sym>Flag, Green</sym>
+	<extensions>
+	<gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+		<gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+	</gpxx:WaypointExtension>
+	</extensions>
+</wpt>
+
+</gpx>
